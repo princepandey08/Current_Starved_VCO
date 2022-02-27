@@ -70,6 +70,9 @@ The output frequency for Vbias=0.55 volt is 6.6 GHz
  Total transistors used=22
  
  # Netlist 
- [netist.txt](https://github.com/princepandey08/Current_Starved_VCO/files/8149268/netist.txt)
+ 
+Kindly click [here](https://github.com/princepandey08/Current_Starved_VCO/blob/main/netist.txt) to see the netlist.
+
+
 
  
