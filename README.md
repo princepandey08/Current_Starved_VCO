@@ -29,6 +29,20 @@ circuit diagram is shown in fig.1.
 
                         fig.1. Rough schematic
 
+# Tool Used
+
+Synopsys Custom Compiler: The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital,
+and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation 
+management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+
+Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis 
+of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped 
+in various types of simulations of the above designed circuit.
+
+Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above circuit design.
+
+![synopsys custom compiler](https://user-images.githubusercontent.com/100519853/155896504-ae7e81cc-163a-4606-8e27-47390fa7ffea.png)
+
 # Schematic
 
 ![prince ckt](https://user-images.githubusercontent.com/100519853/155893395-4648cef5-a232-4244-9c56-498d54a17099.png)
@@ -73,6 +87,26 @@ The output frequency for Vbias=0.55 volt is 6.6 GHz
  
 Kindly click [here](https://github.com/princepandey08/Current_Starved_VCO/blob/main/netist.txt) to see the netlist.
 
+# References
+
+[1] M. Jamal Deen, “Ultra Low-Voltage Low-Power Voltage Controlled Oscillator”, Electrical and Computer Engineering Department, CRL 226 McMaster University, Hamilton, ON, Canada L8S 4K1.
+
+[2] Manish Goswami “0.4mW, 0.27pJ/bit true random number generator using jitter, metastability and current starved topology”, Electronics & communication, Indian Institue of Information technology, Allahabad.
+
+[3] BP Panda “Design of a Novel Current Starved VCO via Constrained Geometric Programming”, Department of Electronics and Communication Engineering, National Institute of Technology, PPRourkela, Orissa, India School of Electrical Engineering
 
 
- 
+# Acknowledgement
+
+[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
+
+[Cloud Based Analog IC Design Hackathon](https://hackathoniith.in/)
+
+[Synopsys India](https://www.synopsys.com/)
+
+# Author
+
+Prince Pandey, Mtech. in Microelectronics
+
+IIIT, Prayagraj, Uttar Pradesh 211015
+
