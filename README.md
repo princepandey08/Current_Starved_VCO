@@ -1,16 +1,27 @@
 # Content
 
 [Abstract](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#abstract)
+
 [Introduction](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#introduction)
+
 [Tool Used](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#tool-used)
+
 [Schematic](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#schematic)
+
 [Symbol](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#symbol)
+
 [Testbench Schematic For Current Starved VCO]((https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#testbench-schematic-for-current-starved-vco)
+
 [Simulation Results ](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#simulation-results)
+
 [Transistor Count](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#transistor-count)
+
 [Netlist](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#netlist)
+
 [References](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#references)
+
 [Acknowledgement](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#acknowledgement)
+
 [Author](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#author)
 
 # Abstract
