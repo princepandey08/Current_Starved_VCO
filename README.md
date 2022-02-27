@@ -10,7 +10,7 @@
 
 [Symbol](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#symbol)
 
-[Testbench Schematic For Current Starved VCO]((https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#testbench-schematic-for-current-starved-vco)
+[Testbench Schematic For Current Starved VCO](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#testbench-schematic-for-current-starved-vco)
 
 [Simulation Results ](https://github.com/princepandey08/Current_Starved_VCO/edit/main/README.md#simulation-results)
 
